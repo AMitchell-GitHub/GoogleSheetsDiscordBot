@@ -1,0 +1,17 @@
+{
+  "name": "APCS BOT",
+  "version": "1.0.0",
+  "description": "My app",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "XXXXXXX",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "discord.js": "^11.3.2",
+    "dotenv": "^5.0.0",
+    "googleapis": "^27.0.0"
+  }
+}
