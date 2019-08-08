@@ -1,2 +1,4 @@
 # GoogleSheetsDiscordBot
 This is all the files that I used in the bot. Some confidential information has been replaced with XXXX, therefore this bot will NOT run on it's own! You can read about how I did it at: https://www.sites.google.com/site/aidanssiteofstuff/tutorial/googlespreadsheetsdiscordbot, and you can message me on Discord at: AMitchell#6193 if you have any questions.
+
+Edit: apparently there are some security issues with some modules I used, including axios, but this shouldn't be a problem as long as you are running the program on your own Computer and are not accessing untrusted websites. Basically, you should be fine, but I can't guaruntee that the program will work perfectly wtih the newest updates installed- the API for the modules might have changed, in which case you should try to troubleshoot that on your own! xxoo
